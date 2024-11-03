@@ -1,5 +1,13 @@
-# 💫 About Me:
-𝐈 𝐚𝐦 𝐚 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐰𝐢𝐭𝐡 𝟏 𝐲𝐞𝐚𝐫 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐞𝐱𝐩𝐚𝐧𝐝𝐢𝐧𝐠 𝐦𝐲 𝐬𝐤𝐢𝐥𝐥 𝐬𝐞𝐭. 𝐈 𝐡𝐚𝐯𝐞 𝐛𝐞𝐞𝐧 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐏𝐇𝐏, 𝐋𝐚𝐫𝐚𝐯𝐞𝐥, 𝐕𝐮𝐞.𝐣𝐬, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐚𝐧𝐝 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒, 𝐚𝐧𝐝 𝐈 𝐚𝐦 𝐜𝐨𝐧𝐬𝐭𝐚𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐧𝐞𝐰 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬 𝐭𝐨 𝐟𝐮𝐫𝐭𝐡𝐞𝐫 𝐞𝐧𝐡𝐚𝐧𝐜𝐞 𝐦𝐲 𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬.<𝐛𝐫>𝐃𝐮𝐫𝐢𝐧𝐠 𝐭𝐡𝐢𝐬 𝐭𝐢𝐦𝐞, 𝐈 𝐡𝐚𝐯𝐞 𝐛𝐮𝐢𝐥𝐭 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 𝐚𝐧𝐝 𝐮𝐬𝐞𝐫-𝐟𝐫𝐢𝐞𝐧𝐝𝐥𝐲 𝐰𝐞𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬. 𝐈 𝐞𝐧𝐣𝐨𝐲 𝐟𝐢𝐧𝐝𝐢𝐧𝐠 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐭𝐨 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬 𝐚𝐧𝐝 𝐡𝐚𝐯𝐞 𝐚 𝐬𝐭𝐫𝐨𝐧𝐠 𝐜𝐨𝐦𝐦𝐢𝐭𝐦𝐞𝐧𝐭 𝐭𝐨 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠. 𝐌𝐲 𝐠𝐨𝐚𝐥 𝐢𝐬 𝐭𝐨 𝐛𝐞𝐜𝐨𝐦𝐞 𝐚 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐚𝐧𝐝 𝐰𝐨𝐫𝐤 𝐨𝐧 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐭𝐡𝐚𝐭 𝐩𝐮𝐬𝐡 𝐦𝐞 𝐭𝐨 𝐠𝐫𝐨𝐰 𝐞𝐯𝐞𝐧 𝐦𝐨𝐫𝐞.
+# 💫Hey There:
+👋 I'm a passionate full-stack developer with 1 year of experience, focused on expanding my skill set every day.
+
+💻 Tech Stack: PHP, Laravel, Vue.js, JavaScript, and Tailwind CSS. I'm constantly exploring new technologies to level up my skills.
+
+🚀 Over the past year, I've built dynamic and user-friendly web applications, finding creative solutions to challenges.
+
+📚 Lifelong Learner: I'm committed to continuous learning and personal growth in the field.
+
+🎯 Goal: To become a successful full-stack developer and work on innovative projects that push me to grow even more.
 
 
 ## 🌐 Socials:
