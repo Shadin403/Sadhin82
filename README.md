@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sadhin401) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sadhin3_3) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pinterest.com/sadhinsharkar564/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/Sadhin82) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/codepen.io/Sadhin-Sharkar) 
 
-# 💫Hey There:
+# 😎Hey There:
 👋 I'm a passionate full-stack developer with 1 year of experience, focused on expanding my skill set every day.
 
 💻 Tech Stack: PHP, Laravel, Vue.js, JavaScript, and Tailwind CSS. I'm constantly exploring new technologies to level up my skills.
